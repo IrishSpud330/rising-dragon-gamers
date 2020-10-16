@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.jumbotron {
+	margin-bottom: 0 !important;
+	background: #9C3B11 !important;
+}
+
+.navbar-nav {
+	background: #4F2311;
+}
+
+body {
+	background-color: #315C1C !important;
+}
+
+.Body_text {font-family: 'Itim', cursive;
+}
+
+.Title {font-family: 'Piedra', cursive;}
